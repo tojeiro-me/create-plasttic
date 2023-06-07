@@ -1,3 +1,3 @@
-# create-plasttic
+# Create Plasttic Workflow
 
 - under development
