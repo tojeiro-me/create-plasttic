@@ -2,6 +2,7 @@
   "name": "plasttic-create-plasttic",
   "version": "0.0.1",
   "description": "NPX Create Plasttic Workflow",
+  "homepage": "https://github.com/tojeiro-me/create-plasttic",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
