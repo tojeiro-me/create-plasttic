@@ -1,6 +1,31 @@
-# Create Plasttic Workflow
+[![Plasttic](https://plasttic.dev/repo-banner-1400w.png)](https://plasttic.dev)
 
-- under development
+# Create Plasttic Web Workflow
+
+Easy start for [Plasttic Web Workflow](https://github.com/tojeiro-me/Plasttic)
+
+---
+
+## Start
+
+```
+cd into your projects folder
+npx create-plasttic
+```
+
+1. Installs the necessary dependencies
+2. Creates a folder with the `project name` you defined
+3. Downloads and installs the latest version of Plasttic HTML Boilerplate
+
+### Next
+
+Go to [Plasttic HTML Boilerplate](https://github.com/tojeiro-me/Plasttic#readme) for more information about the files installed.
+
+---
+
+## License
+
+[MIT](./LICENSE)
 
 ---
 
