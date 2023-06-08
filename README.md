@@ -9,8 +9,9 @@ Quick start for [Plasttic Web Workflow](https://github.com/tojeiro-me/Plasttic)
 ## Start
 
 ```
-cd into your projects folder
+(cd into your projects folder)
 npx create-plasttic
+cd project-name
 npm install
 ```
 
