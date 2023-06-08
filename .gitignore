@@ -23,5 +23,5 @@ dist/
 
 # test folders and files
 archive/
-test/
+**/test/
 *-nogit*
