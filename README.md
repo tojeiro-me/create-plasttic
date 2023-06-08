@@ -2,7 +2,7 @@
 
 # Create Plasttic Web Workflow
 
-Easy start for [Plasttic Web Workflow](https://github.com/tojeiro-me/Plasttic)
+Quick start for [Plasttic Web Workflow](https://github.com/tojeiro-me/Plasttic)
 
 ---
 
@@ -15,11 +15,11 @@ npx create-plasttic
 
 1. Installs the necessary dependencies
 2. Creates a folder with the `project name` you defined
-3. Downloads and installs the latest version of Plasttic HTML Boilerplate
+3. Downloads and installs the latest version of Plasttic Web Workflow
 
 ### Next
 
-Go to [Plasttic HTML Boilerplate](https://github.com/tojeiro-me/Plasttic#readme) for more information about the files installed.
+Go to [Plasttic Web Workflow](https://github.com/tojeiro-me/Plasttic#readme) for more information about the files installed.
 
 ---
 
