@@ -1,10 +1,17 @@
-# 1.0.3 (Jun 08, 2023)
+# 1.0.4 (Jun 11, 2023)
 
-- Updated links
+- Added README badges
+- Script minor update
 
 ---
 
 # Releases
+
+## 1.0.3 (Jun 08, 2023)
+
+- Updated links
+
+---
 
 ## 1.0.2 (Jun 08, 2023)
 
