@@ -1,11 +1,17 @@
+# 1.1.0 (Jun 11, 2023)
+
+- :warning: Changed destination folder to `/package`
+
+---
+
+# Releases
+
 # 1.0.4 (Jun 11, 2023)
 
 - Added README badges
 - Script minor update
 
 ---
-
-# Releases
 
 ## 1.0.3 (Jun 08, 2023)
 
