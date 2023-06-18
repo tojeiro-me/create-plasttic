@@ -4,7 +4,7 @@
 
 Quick start for [Plasttic Web Workflow](https://github.com/tojeiro-me/Plasttic)
 
-[![npm](https://img.shields.io/npm/v/create-plasttic.svg?style=flat&colorA=18181B&colorB=2D7786)](https://www.npmjs.com/package/create-plasttic)&ensp;![npm](https://img.shields.io/npm/dt/create-plasttic?style=flat&colorA=18181B&colorB=2D7786)&ensp;[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat&colorA=18181B&colorB=2D7786)](https://github.com/tojeiro-me/create-plasttic/blob/master/LICENSE)&emsp;[![Twitter Follow](https://img.shields.io/twitter/follow/Plasttic_Dev?style=social)](https://twitter.com/Plasttic_Dev)
+[![npm](https://img.shields.io/npm/v/create-plasttic.svg?style=flat&colorA=18181B&colorB=2D7786)](https://www.npmjs.com/package/create-plasttic)&ensp;[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat&colorA=18181B&colorB=2D7786)](https://github.com/tojeiro-me/create-plasttic/blob/master/LICENSE)&emsp;[![Twitter Follow](https://img.shields.io/twitter/follow/Plasttic_Dev?style=social)](https://twitter.com/Plasttic_Dev)
 
 ---
 
