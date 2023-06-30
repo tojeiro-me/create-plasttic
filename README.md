@@ -13,13 +13,13 @@ Quick start for [Plasttic Web Workflow](https://github.com/tojeiro-me/Plasttic)
 ```
 (cd into your projects folder)
 npx create-plasttic
-cd project-name
-npm install
+cd <project-name>
+npm run start
 ```
 
 1. Creates a folder with the `project name` you defined
 2. Downloads and installs the latest version of Plasttic Web Workflow
-3. Installs all the project dependencies
+3. Installs all the project dependencies and initializes 
 
 ### Next
 

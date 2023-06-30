@@ -1,7 +1,8 @@
 # 1.1.3 (Jun --, 2023)
 
-- Update: Banner
-- Update: Dependencies
+- Updated: Banner
+- Updated: Dependencies
+- Updated: README
 
 ---
 
