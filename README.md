@@ -19,7 +19,7 @@ npm run start
 
 1. Creates a folder with the `project name` you defined
 2. Downloads and installs the latest version of Plasttic Web Workflow
-3. Installs all the project dependencies and initializes 
+3. Installs all the project dependencies and initializes
 
 ### Next
 
@@ -28,8 +28,6 @@ Go to [Plasttic Web Workflow](https://github.com/tojeiro-me/Plasttic#readme) for
 ---
 
 ## Follow
-
----
 
 [![Twitter](https://plasttic.dev/repo/twitter.svg)](https://twitter.com/Plasttic_Dev)&emsp;[![Mastodon](https://plasttic.dev/repo/mastodon.svg)](https://mastodon.social/@plasttic)&emsp;[![Github](https://plasttic.dev/repo/github.svg)](https://github.com/tojeiro-me)
 
