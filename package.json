@@ -42,7 +42,7 @@
     "pacote": "^15.2.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.22.8",
+    "@babel/core": "^7.22.9",
     "@babel/eslint-parser": "^7.22.7",
     "@rushstack/eslint-patch": "^1.3.2",
     "@typescript-eslint/eslint-plugin": "^5.60.1",
