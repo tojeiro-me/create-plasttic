@@ -4,7 +4,7 @@
 
 Quick start for [Plasttic Web Workflow](https://github.com/tojeiro-me/Plasttic)
 
-[![npm](https://img.shields.io/npm/v/create-plasttic.svg?style=flat&colorA=18181B&colorB=2D7786)](https://www.npmjs.com/package/create-plasttic)&ensp;[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat&colorA=18181B&colorB=2D7786)](https://github.com/tojeiro-me/create-plasttic/blob/master/LICENSE)&emsp;[![Twitter Follow](https://img.shields.io/twitter/follow/Plasttic_Dev?style=social)](https://twitter.com/Plasttic_Dev)
+[![npm](https://img.shields.io/npm/v/create-plasttic.svg?style=flat&colorA=18181B&colorB=2D7786)](https://www.npmjs.com/package/create-plasttic)&ensp;[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat&colorA=18181B&colorB=2D7786)](https://github.com/tojeiro-me/create-plasttic/blob/master/LICENSE)&emsp;[![Twitter Follow](https://img.shields.io/twitter/follow/tojeiro_me?style=social)](https://twitter.com/tojeiro_me)
 
 ---
 
@@ -29,7 +29,7 @@ Go to [Plasttic Web Workflow](https://github.com/tojeiro-me/Plasttic#readme) for
 
 ## Follow
 
-[![Twitter](https://plasttic.dev/repo/twitter.svg)](https://twitter.com/Plasttic_Dev)&emsp;[![Mastodon](https://plasttic.dev/repo/mastodon.svg)](https://mastodon.social/@plasttic)&emsp;[![Github](https://plasttic.dev/repo/github.svg)](https://github.com/tojeiro-me)
+[![Twitter](https://plasttic.dev/repo/twitter.svg)](https://twitter.com/tojeiro_me)&emsp;[![Mastodon](https://plasttic.dev/repo/mastodon.svg)](https://mastodon.social/@tojeiro_me)&emsp;[![Github](https://plasttic.dev/repo/github.svg)](https://github.com/tojeiro-me)
 
 ---
 
