@@ -1,6 +1,7 @@
-# 1.1.4 (Feb --, 2024)
+# 1.1.4 (Feb 06, 2024)
 
 - Updated: Dependencies
+- Updated: Linting
 
 ---
 
