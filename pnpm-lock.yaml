@@ -18,11 +18,11 @@ dependencies:
     specifier: ^11.2.0
     version: 11.2.0
   inquirer:
-    specifier: ^9.2.14
-    version: 9.2.14
+    specifier: ^9.2.15
+    version: 9.2.15
   inquirer-autocomplete-prompt:
     specifier: ^3.0.1
-    version: 3.0.1(inquirer@9.2.14)
+    version: 3.0.1(inquirer@9.2.15)
   npm:
     specifier: ^10.4.0
     version: 10.4.0
@@ -2345,7 +2345,7 @@ packages:
   /inherits@2.0.4:
     resolution: {integrity: sha512-k/vGaX4/Yla3WzyMCvTQOXYeIHvqOKtnqBduzTHpzpQZzAskKMhZ2K+EnBiSM9zGSoIFeMpXKxa4dYeZIQqewQ==}
 
-  /inquirer-autocomplete-prompt@3.0.1(inquirer@9.2.14):
+  /inquirer-autocomplete-prompt@3.0.1(inquirer@9.2.15):
     resolution: {integrity: sha512-DQBXwX2fVQPVUzu4v4lGgtNgyjcX2+rTyphb2MeSOQh3xUayKAfHAF4y0KgsMi06m6ZiR3xIOdzMZMfQgX2m9w==}
     engines: {node: '>=16'}
     peerDependencies:
@@ -2353,14 +2353,14 @@ packages:
     dependencies:
       ansi-escapes: 6.2.0
       figures: 5.0.0
-      inquirer: 9.2.14
+      inquirer: 9.2.15
       picocolors: 1.0.0
       run-async: 2.4.1
       rxjs: 7.8.1
     dev: false
 
-  /inquirer@9.2.14:
-    resolution: {integrity: sha512-4ByIMt677Iz5AvjyKrDpzaepIyMewNvDcvwpVVRZNmy9dLakVoVgdCHZXbK1SlVJra1db0JZ6XkJyHsanpdrdQ==}
+  /inquirer@9.2.15:
+    resolution: {integrity: sha512-vI2w4zl/mDluHt9YEQ/543VTCwPKWiHzKtm9dM2V0NdFcqEexDAjUHzO1oA60HRNaVifGXXM1tRRNluLVHa0Kg==}
     engines: {node: '>=18'}
     dependencies:
       '@ljharb/through': 2.3.12
